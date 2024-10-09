@@ -241,3 +241,36 @@ div[b-9vm961mlvg] {
 	margin: 0 auto;
 }
 
+.menu-rankings[b-9vm961mlvg] {
+	display: grid;
+	grid-template-columns: 20% 20% 20% 20% 20%;
+	max-width: 1220px;
+	margin: 20px 0;
+}
+
+.rankings[b-9vm961mlvg] {
+	align-items: center;
+	border-radius: 7px;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	font-weight: 600;
+	font-size: 12px;
+	line-height: 15px;
+	line-height: 20px;
+	margin: 8px 4px 4px;
+	padding: 6px;
+	text-decoration: none;
+	text-align: center;
+	white-space: nowrap;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+}
+
+.rankings svg[b-9vm961mlvg] {
+	fill: #01cd74;
+	display: block;
+	width: 30px;
+	height: 30px;
+	margin: 5px auto 12px;
+}

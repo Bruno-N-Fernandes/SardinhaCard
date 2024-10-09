@@ -1,9 +1,4 @@
 /* /Components/CartaoView.razor.rz.scp.css */
-:root[b-qii3a945ov] {
-	--sombra-padrao: 2px 2px 5px 5px rgba(0, 0, 0, 0.25);
-	--cards-bordas: #E6E6E6;
-}
-
 *[b-qii3a945ov], [b-qii3a945ov]::after, [b-qii3a945ov]::before {
 	box-sizing: border-box;
 	line-height: 1.5;
@@ -100,7 +95,7 @@ a[b-qii3a945ov] {
 	width: 220px;
 	display: inline-block;
 	margin: 15px 0 5px;
-	box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, .25);
+	box-shadow: 1px 1px 3px 3px rgba(0, 0, 0, .25);
 }
 
 .linha2-cartao[b-qii3a945ov] {
@@ -121,10 +116,6 @@ a[b-qii3a945ov] {
 
 .lc2[b-qii3a945ov] {
 	margin: 0 10px;
-}
-
-.lc3[b-qii3a945ov] {
-	background-color: #f5f5ea;
 }
 
 .linha2-cartao span[b-qii3a945ov] {

@@ -16,11 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      #- name: Setup .NET Core SDK
-      #  uses: actions/setup-dotnet@v1
-      #  with:
-      #    dotnet-version: 8.x
-      #    include-prerelease: true
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 8.x
+          include-prerelease: true
 
 
       # publishes Blazor project to the release-folder
@@ -28,7 +28,7 @@ jobs:
       #  run: dotnet publish src/QuantoCusta.BlazorApp/QuantoCusta.BlazorApp.csproj -c Release -o release --nologo
     
       # changes the base-tag in index.html from '/' to 'projeto-enquete' to match GitHub Pages repository subdirectory
-      #- name: Change base-tag in index.html from / to projeto-enquete
+      - name: Change base-tag in index.html from / to SardinhaCard
         run: sed -i 's/<base href="\/" \/>/<base href="\/SardinhaCard\/" \/>/g' release/wwwroot/index.html
     
       # copy index.html to 404.html to serve the same file when a file is not found

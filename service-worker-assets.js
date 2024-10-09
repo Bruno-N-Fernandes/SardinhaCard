@@ -29,7 +29,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-RWDjLNklSkNOeewqb+SSfnnV12C6zO8MCb9f3YgLou4=",
+      "hash": "sha256-AUHJJY8stLcUoDuYSefjooeNoXxfE2L0xKnfXHb0rUc=",
       "url": "index.html"
     },
     {
@@ -69,7 +69,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-lzBEb5SaMlopTRaJHs75NEF5pOmb2cL91\/p9noypGDg=",
+      "hash": "sha256-Z2rGJPDofkr+mml0zdZCMlKs\/tDjgWKYB2iOMR+AxTU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -177,7 +177,7 @@
       "url": "_framework\/Newtonsoft.Json.wasm"
     },
     {
-      "hash": "sha256-VjQb5cEBmWTOkBr4rr95alAhr7bZKeZ0TEwK9ez\/HIM=",
+      "hash": "sha256-f3rr6hucbZLa4PoWikEE4ee2QCD25mNMG44Em\/TuJp8=",
       "url": "_framework\/SardinhaCard.BlazorApp.wasm"
     },
     {
@@ -373,7 +373,7 @@
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-L0MFBFRlzAyvQ\/j20II6UxN4rVdmYwGi1IHcVBjTbmI=",
+      "hash": "sha256-nczKS+aGyVcBynjqJeRGC6R1XwKdqEowE2weH4QOS7Y=",
       "url": "SardinhaCard.BlazorApp.styles.css"
     },
     {
@@ -385,5 +385,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "MipJXhPw"
+  "version": "KPcQEsyr"
 };

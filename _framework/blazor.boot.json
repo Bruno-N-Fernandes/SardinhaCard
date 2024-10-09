@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SardinhaCard.BlazorApp",
   "resources": {
-    "hash": "sha256-KkJqtkS0JvQW5ssIlW0IS63UAWpkpclHxdOZ+tUE1h0=",
+    "hash": "sha256-6qqkBCVahOB4iyhinaempaxcDZDD8Tuy38FALOBcHCI=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.1n70cu4pp2.js": "sha256-LMS+lD3GeSU8nCCjdncaJTbYGyBjK2qlD2NZeq79ov4="
     },
@@ -41,7 +41,7 @@
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-sLSiCKh0RQEV/2cl05tr7wOLWzExQfPZovvpqYLJduQ=",
       "MudBlazor.wasm": "sha256-pox96SK9t01QmRQ3pRBdLS/gu1skxHNuqoPBfin76Rc=",
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
-      "SardinhaCard.BlazorApp.wasm": "sha256-VjQb5cEBmWTOkBr4rr95alAhr7bZKeZ0TEwK9ez/HIM=",
+      "SardinhaCard.BlazorApp.wasm": "sha256-f3rr6hucbZLa4PoWikEE4ee2QCD25mNMG44Em/TuJp8=",
       "System.Collections.Concurrent.wasm": "sha256-5gj5rOaMnRjJSNt/49+NNcoRSJ1rxjpM0jFv5hvdF4g=",
       "System.Collections.Immutable.wasm": "sha256-MM6ObSzWqcVgBukb6t0YKRPS/qELhLctrrjeN+ZSa/w=",
       "System.Collections.NonGeneric.wasm": "sha256-sK8kDnVci1HIJi248etu7BdPdUYv/5OTn6F3IIrht2A=",

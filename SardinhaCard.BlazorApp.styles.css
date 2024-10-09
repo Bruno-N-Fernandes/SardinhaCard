@@ -219,7 +219,25 @@ div[b-9vm961mlvg] {
 	unicode-bidi: isolate;
 }
 
+.filtros-cartoes[b-9vm961mlvg] {
+	border-radius: 5px;
+	display: grid;
+	font-weight: 600;
+	font-size: 12px;
+	grid-template-columns: 25% 25% 25% 25%;
+	margin: 20px 0;
+	max-width: 1220px;
+	padding: 10px;
+	text-transform: uppercase;
+	box-shadow: 1px 1px 3px 3px rgba(0, 0, 0, .25);
+}
+
+.filtrox[b-9vm961mlvg] {
+	padding: 0 2%;
+}
+
 .ls_cartoes_box[b-9vm961mlvg] {
 	max-width: 1220px;
 	margin: 0 auto;
 }
+

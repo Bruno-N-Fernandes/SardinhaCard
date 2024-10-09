@@ -3,7 +3,10 @@ name: Build Blazor to GitHub Pages
 # version: 2022.03.20.1513
 # Run workflow on every push to the master branch
 #tutorial: https://swimburger.net/blog/dotnet/how-to-deploy-aspnet-blazor-webassembly-to-github-pages
+
 on:
+  workflow_dispatch:
+  
   push:
     branches: [ master ]
     paths:
